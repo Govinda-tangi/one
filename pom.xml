@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://172.35.96.26:8081/repository/java/</url>
+		    <url>http://172.35.96.26:8081/repository/javapipeline/</url>
 		</repository>
   	</distributionManagement>
 	
